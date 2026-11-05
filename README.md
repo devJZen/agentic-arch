@@ -34,6 +34,7 @@ Git, GitLab, Unix 기반 OS, Confluence, Java 25, Python 3.x, Spring 4.x, Spring
 #### 난이도 조절
 
 n8n으로 간단하게 매일하는 업무부터 langchain으로 자동화 해보세요.
+[예제](https://youtu.be/4o0AJYBEiBo)와
 잘 구현된 [MCP](https://mcp.aka.page/browse/quick)를 확인하는 것도 방법입니다.
 
 ### LlamaIndex/Langchain
@@ -48,9 +49,15 @@ n8n으로 간단하게 매일하는 업무부터 langchain으로 자동화 해�
 
 ## 프로젝트 이전에 확인할 것
 
+[Attention Is All You Need, BERT의 시작](https://arxiv.org/abs/1706.03762)
+[Auto Ontology, 온톨로지 레이어 구축 이해](https://github.com/NVIDIA/auto-ontology)
+[왜 메타데이터와 온톨로지 방식으로 해결해야 되는지](https://github.com/NVIDIA/auto-ontology-eval)
+[Graph-R1, GraphRAG에 대한 이해](https://arxiv.org/html/2507.21892v2)
+[Coherence 해결](https://arxiv.org/html/2508.07975v1)
 [왜 LlamaIndex여야 되는가?](https://blog.abdellatif.io/production-rag-processing-5m-documents)
 [왜 LangChain이어야 되는가?](https://www.youtube.com/watch?v=VoWGD4mvKjU)
 [RAG](https://www.promptingguide.ai/kr/research/rag)
 [AWS RAG 서비스](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
 [간단한 RAG 구현기](https://tech.ktcloud.com/entry/2025-02-ktcloud-ai-rag-faiss-%EA%B0%9C%EB%B0%9C%EB%B0%A9%EC%8B%9D-%EA%B5%AC%ED%98%84)
 [SpringAI](https://youtu.be/x6KmUyPWy2Q)
+[pytorchKR](https://discuss.pytorch.kr/)
