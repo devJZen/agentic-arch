@@ -14,7 +14,7 @@ AI를 도구로 사용한다고 해도 명령조, 반말, "~해줘" 식의 프�
 
 Git, GitLab, Unix 기반 OS, Confluence, Java 25, Python 3.x, Spring 4.x, SpringAI, IntelliJ
 
-> 문서 작성은 AS-IS/TO-BE로 합니다.
+> 문서 작성은 Trade-Off, Impact Scope 위주로 합니다.
 
 - 미리 준비할 것: 완벽하지 않은 도메인 문서의 메타데이터를 스키마로 정리해두세요.
 - 데이터 준비 시에 많은 양의 문서 처리가 중점인지, 답변의 정확도와 일관성이 중점인지, 문서 복잡성 해결인지 간단히 회의할 것.
@@ -34,9 +34,9 @@ Git, GitLab, Unix 기반 OS, Confluence, Java 25, Python 3.x, Spring 4.x, Spring
 - OpenAIAPI
 
 혼자 진행해도 됩니다.
-프롬프트 엔지니어링, Recall@10, Ragas, LLM as a Judge, BM25, 청킹, NER, DDD기반 도메인 파이프라인, LLM 가드레일, AI 보안 기술, Agnet 오케스트레이션에 대해서 학습해오시면 좋습니다.
-미디어 청킹 전략을 도입하고 싶다면 해보세요. 굳이 sql agent를 만들지 않아도 좋습니다.(Surya, OpenDataLoader 좋은 오픈소스가 많습니다.)
-알고리즘 테스트 채점 기준의 golden set을 구성하고(예를 들자면 컴파일 처리 속도, 코드 난이도와 같은 것들) 평가해보는 agent를 만드는 것도 방법입니다.
+프롬프트 엔지니어링, Recall@10, Ragas, LLM as a Judge, BM25, 청킹, NER, DDD기반 도메인 파이프라인, LLM 가드레일, AI 보안 기술, Agent 오케스트레이션에 대해서 학습해오시면 좋습니다.
+미디어 청킹 전략을 도입하고 싶다면 해보세요. 굳이 Sql Agent를 만들지 않아도 좋습니다.(Surya, OpenDataLoader 좋은 오픈소스가 많습니다.)
+알고리즘 테스트 채점 기준의 Golden Set을 구성하고(예를 들자면 컴파일 처리 속도, 코드 난이도와 같은 것들) 평가해보는 Agent를 만드는 것도 방법입니다.
 직접 구현한 Agent 성능을 측정할 때 구현해둔 Agent에 프롬프트 인젝션 공격과 방어를 해보는 것도 도움됩니다.
 * ollama, gemma를 vllm로 학습시키고 실행해보세요. bedrock을 사용하고 싶다면 예제 구현하고 숫자로 모델 성능을 비교 해봐도 됩니다.
 
