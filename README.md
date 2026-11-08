@@ -12,7 +12,7 @@ AI를 도구로 사용한다고 해도 명령조, 반말, "~해줘" 식의 프�
 
 ## Specification
 
-Git, GitLab, Unix 기반 OS, Confluence, Java 25, Python 3.x, Spring 4.x, SpringAI, IntelliJ
+Docker, Git, GitLab, Unix 기반 OS, Confluence, Java 25, Python 3.x, Spring 4.x, SpringAI, IntelliJ
 
 > 문서 작성은 Trade-Off, Impact Scope 위주로 합니다.
 
