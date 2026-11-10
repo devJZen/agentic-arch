@@ -57,7 +57,8 @@ n8n으로 간단하게 매일하는 업무부터 langchain으로 자동화 해�
 - Streamlit
 
 ## 프로젝트 이전에 확인할 것
-
+[RAG가 아닌 CAG, CAG](https://papooo-dev.github.io/posts/CAG_vs_KAG/)
+[RAG cookbook](https://docs.kakaocloud.com/tutorial/machine-learning-ai/llm-rag)
 [Attention Is All You Need, BERT의 시작](https://arxiv.org/abs/1706.03762)
 [Auto Ontology, 온톨로지 레이어 구축 이해](https://github.com/NVIDIA/auto-ontology)
 [왜 메타데이터와 온톨로지 방식으로 해결해야 되는지](https://github.com/NVIDIA/auto-ontology-eval)
